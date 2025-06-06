@@ -58,5 +58,5 @@ This DNAT rule ensures that traffic from your IP to **FirewallIP:4000** is secur
 
 ---
 
-## 📐 Architecture Overview
+
 
